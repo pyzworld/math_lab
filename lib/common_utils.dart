@@ -2,7 +2,6 @@ library common_utils;
 
 export 'src/date_util.dart';
 export 'src/encrypt_util.dart';
-export 'src/json_util.dart';
 export 'src/log_util.dart';
 export 'src/money_util.dart';
 export 'src/num_util.dart';
