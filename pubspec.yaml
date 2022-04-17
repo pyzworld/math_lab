@@ -1,7 +1,7 @@
-name: common_utils
-description: Dart common utils library.Contain DateUtil, EncryptUtil, JsonUtil, LogUtil, MoneyUtil, NumUtil, ObjectUtil, RegexUtil, TextUtil, TimelineUtil, TimerUtil.
-version: 2.1.0
-homepage: https://github.com/Sky24n/common_utils
+name: math_lab
+description: Dart math lab
+version: 1.0.0
+homepage: https://github.com/pyzworld/math_lab
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
