@@ -1,5 +1,7 @@
 # See https://www.dartlang.org/guides/libraries/private-files
 
+.DS_Store
+
 # Files and directories created by pub
 .dart_tool/
 .packages
@@ -11,8 +13,3 @@ pubspec.lock
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
-
-*/.idea/
-.idea/
-/.idea/workspace.xml
-/.idea/libraries
