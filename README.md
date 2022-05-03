@@ -1,6 +1,6 @@
 Language: [English](README-EN.md) | 中文简体
 
-[![Pub](https://img.shields.io/pub/v/common_utils.svg?style=flat-square&color=009688)](https://pub.dartlang.org/packages/common_utils)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pub](https://img.shields.io/pub/v/common_utils.svg?style=flat-square&color=2196F3)](https://pub.flutter-io.cn/packages/common_utils)
+[![Pub](https://img.shields.io/pub/v/common_utils.svg?style=flat-square&color=009688)](https://pub.dartlang.org/packages/math_lab)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pub](https://img.shields.io/pub/v/common_utils.svg?style=flat-square&color=2196F3)](https://pub.flutter-io.cn/packages/math_lab)
 
 Only NumUtil
 

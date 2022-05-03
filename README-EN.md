@@ -1,11 +1,11 @@
-Language: English | [中文简体](https://github.com/Sky24n/common_utils)
+Language: English | [中文简体](https://github.com/pyzworld/math_lab)
 
-[![Pub](https://img.shields.io/pub/v/common_utils.svg?style=flat-square&color=009688)](https://pub.dartlang.org/packages/common_utils)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pub](https://img.shields.io/pub/v/common_utils.svg?style=flat-square&color=2196F3)](https://pub.flutter-io.cn/packages/common_utils)
+[![Pub](https://img.shields.io/pub/v/common_utils.svg?style=flat-square&color=009688)](https://pub.dartlang.org/packages/math_lab)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pub](https://img.shields.io/pub/v/common_utils.svg?style=flat-square&color=2196F3)](https://pub.flutter-io.cn/packages/math_lab)
 
 ## math_lab is a Dart math utils library.
 
 
-* NumUtil -> [Example](https://github.com/Sky24n/flutter_wanandroid/blob/master/lib/demos/num_util_page.dart)
+* NumUtil
 ```
 getIntByValueStr            : get int By value string.
 getDoubleByValueStr         : get double By value string.
